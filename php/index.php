@@ -129,7 +129,7 @@
 		<body style="background-color: rgb(240,240,240); font-size: 20px;">
 			<ul>
 			<!-- <li><a href="#home">MY CART</a></li> -->
-				<li><a href="http://192.168.99.100/signup.php">SIGNUP</a></li>
+				<li><a href="https://mywebsite-ecommerce.herokuapp.com/signup.php">SIGNUP</a></li>
 			</ul>
 			<div style="text-align: center;">
 			<p style="color: white; font-family: Alegreya; font-size: 78px">Sign In</p>
