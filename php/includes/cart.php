@@ -106,10 +106,10 @@ include_once 'dbh.php'
 </head>
 <body style="font-family: trebuchet ms;">
 	<ul>
-		<li style="float: left;"><a href="http://192.168.99.100/includes/login_n.php" class="a">HOME</a></li>
-		<li><a href="http://192.168.99.100/includes/logout.php">LOGOUT</a></li>
-		<li><a href="http://192.168.99.100/includes/cart.php">MY CART</a></li>
-		<li><a href="http://192.168.99.100/includes/checkout.php">ORDERS</a></li>
+		<li style="float: left;"><a href="https://mywebsite-ecommerce.herokuapp.com/includes/login_n.php" class="a">HOME</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/logout.php">LOGOUT</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/cart.php">MY CART</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/checkout.php">ORDERS</a></li>
 		<br>
 	</ul>
 	<div>
