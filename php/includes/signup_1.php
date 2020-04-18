@@ -91,7 +91,7 @@ function test_input($data) {
 }
 
 if (empty($Err)) {
-$sql="insert into customers(firstname,lastname,dob,phone,address,email,gender,password) values (firstname='$firstname',lastname='$lastname',dob='$dob',phone='$phone',address='$address',email='$email',gender='$gender',password='$password');";
+$sql="insert into customers(firstname,lastname,dob,phone,address,email,gender,password) values ('$firstname','$lastname','$dob','$phone','$address','$email','$gender','$password');";
 
   
 if (mysqli_query($conn,$sql)){
