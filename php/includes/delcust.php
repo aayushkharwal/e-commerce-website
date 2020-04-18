@@ -1,4 +1,5 @@
 <?php
+session_start();
 include_once 'dbh.php';
 $customer_id=$_SESSION["uid"];
 echo $customer_id;
