@@ -31,7 +31,7 @@ if($resultCheck>0){
 		
 	//include_once 'items.php';
 	}
-	else{echo '<meta http-equiv = "refresh" content = "0; url = http://192.168.99.100/" />';}
+	else{echo '<meta http-equiv = "refresh" content = "0; url = https://mywebsite-ecommerce.herokuapp.com/" />';}
 ?><!--
 <!DOCTYPE html>
 <html>
