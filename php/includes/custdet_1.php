@@ -93,7 +93,7 @@ $_SESSION["password"]= $password;
   
 if (mysqli_query($conn,$sql)){
   echo "Account details updated successfuly";
-  echo '<meta http-equiv = "refresh" content = "0; url = http://192.168.99.100/includes/login_n.php" />';
+  echo '<meta http-equiv = "refresh" content = "0; url = https://mywebsite-ecommerce.herokuapp.com/includes/login_n.php" />';
   
 } else { 
   echo "Error: ".$sql."<br>".mysqli_error($conn);
