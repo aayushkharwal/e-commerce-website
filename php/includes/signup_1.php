@@ -97,7 +97,7 @@ $sql="insert into customers(firstname,lastname,dob,phone,address,email,gender,pa
 if (mysqli_query($conn,$sql)){
 	//echo "NewbRecord created successfuly";
 	//header("Location: ../index.php");
-  echo '<meta http-equiv = "refresh" content = "0; url = http://192.168.99.100/" />';
+  echo '<meta http-equiv = "refresh" content = "0; url =https://mywebsite-ecommerce.herokuapp.com/" />';
 } else { 
 	echo "Error: ".$sql."<br>".mysqli_error($conn);
 }
