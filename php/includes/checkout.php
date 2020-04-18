@@ -165,11 +165,11 @@ include_once 'dbh.php'
 <body style="font-size: 19px;">
 	<div>
 	<ul>
-		<li style="float: left;"><a href="http://192.168.99.100/includes/login_n.php" class="a">HOME</a></li>
-		<li><a href="http://192.168.99.100/includes/logout.php">LOGOUT</a></li>
-		<li><a href="http://192.168.99.100/includes/cart2.php">MY CART</a></li>
-		<li><a href="http://192.168.99.100/includes/checkout.php">ORDERS</a></li>
-		<li><a href="http://192.168.99.100/includes/items.php">PRODUCTS</a></li>
+		<li style="float: left;"><a href="https://mywebsite-ecommerce.herokuapp.com/includes/login_n.php" class="a">HOME</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/logout.php">LOGOUT</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/cart2.php">MY CART</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/checkout.php">ORDERS</a></li>
+		<li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/items.php">PRODUCTS</a></li>
 		
 	
 	</ul>
