@@ -74,9 +74,9 @@ include_once 'dbh.php';
 </head>
 <body style="background-color: rgb(240,240,240);">
   <ul>
-    <li style="float: left;"><a href="http://192.168.99.100/includes/login_n.php" class="a">HOME</a></li>
-    <li><a href="http://192.168.99.100/includes/logout.php">LOGOUT</a></li>
-    <li><a href="http://192.168.99.100/includes/cart.php">MY CART</a></li>
+    <li style="float: left;"><a href="https://mywebsite-ecommerce.herokuapp.com/includes/login_n.php" class="a">HOME</a></li>
+    <li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/logout.php">LOGOUT</a></li>
+    <li><a href="https://mywebsite-ecommerce.herokuapp.com/includes/cart.php">MY CART</a></li>
     
     <br>
   </ul>
